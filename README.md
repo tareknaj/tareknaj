@@ -12,7 +12,7 @@ Liste de tâches avec cases à cocher, barre de recherche, tableau de bord pour 
 
 **Notions utilisées :**
 - Angular : formulaire, services CRUD, http, models, modules, routage
-- Angular Material : list, table, form fields
+- Angular Material : liste, table, form fields
 - Tailwind CSS : grid, flex
 
 [🌐 Démo live](https://url-de-ta-demo1.com) &nbsp;&nbsp; [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-1)
@@ -24,7 +24,7 @@ Gestion de contacts avec recherche dynamique et actions contextuelles sur liste
 
 **Notions utilisées :**
 - Angular : formulaire, services CRUD, http, models, modules, routage
-- Angular Material : menu contextuel, list
+- Angular Material : menu contextuel, liste
 - Tailwind CSS : flex
 
 ---
