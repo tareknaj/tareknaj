@@ -8,11 +8,11 @@ J’utilise Angular, Angular Material, Tailwind CSS, .NET et d'autres technologi
 ## 🌟 Mes projets principaux
 
 ### 1️⃣ **Todo list**
-Description courte de ce projet (par exemple : application Angular pour gérer des réservations).
+Liste de tâches avec cases à cocher, barre de recherche, tableau de bord pour suivre l’avancement et une page de login
 
 **Notions utilisées :**
 - Angular : formulaire réactif, services CRUD, http, models, modules
-- Angular Material : list, icon button, search bar
+- Angular Material : list, table, form fields
 - Tailwind CSS : grid, flex
 
 [🌐 Démo live](https://url-de-ta-demo1.com) &nbsp;&nbsp; [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-1)
