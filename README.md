@@ -11,7 +11,7 @@ J’utilise Angular, Angular Material, Tailwind CSS, .NET et d'autres technologi
 Liste de tâches avec cases à cocher, barre de recherche, tableau de bord pour suivre l’avancement et une page de login
 
 **Notions utilisées :**
-- Angular : formulaire réactif, services CRUD, http, models, modules
+- Angular : formulaire, services CRUD, http, models, modules, routage
 - Angular Material : list, table, form fields
 - Tailwind CSS : grid, flex
 
@@ -20,24 +20,28 @@ Liste de tâches avec cases à cocher, barre de recherche, tableau de bord pour 
 ---
 
 ### 2️⃣ **Contacts**
-Description courte de ce projet (par exemple : dashboard avec Angular Material et Tailwind).
-- [🌐 Démo live](https://url-de-ta-demo2.com)
-- [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-2)
+Gestion de contacts avec recherche dynamique et actions contextuelles sur liste
+
+**Notions utilisées :**
+- Angular : formulaire, services CRUD, http, models, modules, routage
+- Angular Material : menu contextuel, list
+- Tailwind CSS : flex
 
 ---
 
 ### 3️⃣ **Factures**
-Description courte de ce projet (par exemple : API + front Angular pour suivi des paiements).
-- [🌐 Démo live](https://url-de-ta-demo3.com)
-- [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-3)
+Gestion des factures
+
 
 ---
 
 ### 4️⃣ **Calculatrice**
-Description courte de ce projet (par exemple : mini-site responsive avec Tailwind).
-- [🌐 Démo live](https://url-de-ta-demo4.com)
-- [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-4)
 
+**Notions utilisées :**
+- Angular : boucle for
+- Angular Material : button
+- Tailwind CSS : grid
+  
 ---
 
 ## 📫 Me contacter
