@@ -16,7 +16,7 @@ Description courte de ce projet (par exemple : application Angular pour gérer d
 - Tailwind CSS : design responsive
 - LocalStorage : persistance des données
 
-[🌐 Démo live](https://url-de-ta-demo1.com)  [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-1)
+[🌐 Démo live](https://url-de-ta-demo1.com)      [💻 Code source](https://github.com/ton-pseudo/nom-du-projet-1)
 
 ---
 
