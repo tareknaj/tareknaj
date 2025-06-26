@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Tarek
 
 Je suis développeur passionné par la création d'applications web modernes et performantes.  
-J’utilise Angular, Angular Material, Tailwind CSS, .NET et d'autres technologies pour concevoir des solutions efficaces et élégantes.
+J’utilise Angular, Angular Material, Tailwind CSS, Java et d'autres technologies pour concevoir des solutions efficaces et élégantes.
 
 ---
 
